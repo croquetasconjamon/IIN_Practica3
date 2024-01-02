@@ -1,6 +1,0 @@
-Luke Skywalker
-<<<<<<< HEAD
-C-3PO
-=======
-R2-D2
->>>>>>> f582ed23c51ceeded98c236384fc4c7b2be65fe7
