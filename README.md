@@ -27,5 +27,7 @@ bool spaceisPressed = Input.GetKeyDown(KeyCode.Space);
 ```
 ------------------------------------------------
 
+![Terminator](terminator2.png)
+
 # Autor
 Isabel Gonzalez Marquez
